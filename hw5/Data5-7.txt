@@ -1,0 +1,8 @@
+Siemens CCorp 100000 10000
+Smile LLC 200 10
+Google CCorp 900000 30000
+Microsoft CCorp 800000 15000
+Dubler LLC 700 900
+Stinger LLC 20 500
+Grubber LLC 0 15
+
